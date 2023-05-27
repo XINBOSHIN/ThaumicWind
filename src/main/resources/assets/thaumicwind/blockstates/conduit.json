@@ -2,9 +2,9 @@
     "forge_marker": 1,
     "defaults": {
         "transform": "forge:default-block",
-        "model": "magistics:conduit",
+        "model": "thaumicwind:conduit",
         "textures": {
-            "all": "magistics:blocks/transport/conduit"
+            "all": "thaumicwind:blocks/transport/conduit"
         },
         "uvlock": true
     },
@@ -13,9 +13,9 @@
             "true": {
                 "submodel": {
                     "pipe_down": {
-                        "model": "magistics:conduit_part",
+                        "model": "thaumicwind:conduit_part",
                         "textures": {
-                            "all": "magistics:blocks/transport/conduit_valve"
+                            "all": "thaumicwind:blocks/transport/conduit_valve"
                         },
                         "x": 90
                     }
@@ -28,9 +28,9 @@
             "true": {
                 "submodel": {
                     "pipe_up": {
-                        "model": "magistics:conduit_part",
+                        "model": "thaumicwind:conduit_part",
                         "textures": {
-                            "all": "magistics:blocks/transport/conduit_valve"
+                            "all": "thaumicwind:blocks/transport/conduit_valve"
                         },
                         "x": -90
                     }
@@ -43,9 +43,9 @@
             "true": {
                 "submodel": {
                     "pipe_north": {
-                        "model": "magistics:conduit_part",
+                        "model": "thaumicwind:conduit_part",
                         "textures": {
-                            "all": "magistics:blocks/transport/conduit_valve"
+                            "all": "thaumicwind:blocks/transport/conduit_valve"
                         }
                     }
                 }
@@ -57,9 +57,9 @@
             "true": {
                 "submodel": {
                     "pipe_south": {
-                        "model": "magistics:conduit_part",
+                        "model": "thaumicwind:conduit_part",
                         "textures": {
-                            "all": "magistics:blocks/transport/conduit_valve"
+                            "all": "thaumicwind:blocks/transport/conduit_valve"
                         },
                         "y": 180
                     }
@@ -72,9 +72,9 @@
             "true": {
                 "submodel": {
                     "pipe_east": {
-                        "model": "magistics:conduit_part",
+                        "model": "thaumicwind:conduit_part",
                         "textures": {
-                            "all": "magistics:blocks/transport/conduit_valve"
+                            "all": "thaumicwind:blocks/transport/conduit_valve"
                         },
                         "y": 90
                     }
@@ -87,9 +87,9 @@
             "true": {
                 "submodel": {
                     "pipe_west": {
-                        "model": "magistics:conduit_part",
+                        "model": "thaumicwind:conduit_part",
                         "textures": {
-                            "all": "magistics:blocks/transport/conduit_valve"
+                            "all": "thaumicwind:blocks/transport/conduit_valve"
                         },
                         "y": -90
                     }
