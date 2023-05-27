@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "magistics:items/shards/dull"
+        "layer0": "thaumicwind:items/shards/dull"
     }
 }
