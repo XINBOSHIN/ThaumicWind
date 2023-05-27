@@ -1,9 +1,9 @@
-package T145.magistics.client.particles.core;
+package xinboshin.thaumicwind.client.particles.core;
 
 import java.awt.Color;
 
-import T145.magistics.client.particles.ParticleGreenFlame;
-import T145.magistics.client.particles.ParticleWisp;
+import xinboshin.thaumicwind.client.particles.ParticleGreenFlame;
+import xinboshin.thaumicwind.client.particles.ParticleWisp;
 import net.minecraft.client.Minecraft;
 import net.minecraft.entity.Entity;
 import net.minecraft.world.World;
