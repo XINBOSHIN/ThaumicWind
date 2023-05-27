@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "magistics:items/codex_arcanum"
+        "layer0": "thaumicwind:items/codex_arcanum"
     }
 }
