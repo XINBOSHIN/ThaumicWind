@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "magistics:items/scribing_tools"
+        "layer0": "thaumicwind:items/scribing_tools"
     }
 }
