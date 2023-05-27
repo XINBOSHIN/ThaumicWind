@@ -1,8 +1,8 @@
-package T145.magistics.client.render.block;
+package xinboshin.thaumicwind.client.render.block;
 
 import javax.annotation.Nonnull;
 
-import T145.magistics.common.tiles.TileResearchApparatus;
+import xinboshin.thaumicwind.common.tiles.TileResearchApparatus;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.client.renderer.RenderGlobal;
