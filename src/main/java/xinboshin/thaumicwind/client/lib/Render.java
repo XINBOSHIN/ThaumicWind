@@ -1,4 +1,4 @@
-package T145.magistics.client.lib;
+package xinboshin.thaumicwind.client.lib;
 
 import org.lwjgl.opengl.GL11;
 
