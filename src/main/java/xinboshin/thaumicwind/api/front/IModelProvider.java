@@ -1,6 +1,6 @@
-package T145.magistics.api.front;
+package xinboshin.thaumicwind.api.front;
 
-import T145.magistics.common.Magistics;
+import xinboshin.thaumicwind.common.Magistics;
 import net.minecraft.block.Block;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer;
