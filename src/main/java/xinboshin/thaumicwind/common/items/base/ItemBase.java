@@ -1,6 +1,6 @@
-package T145.magistics.common.items.base;
+package xinboshin.thaumicwind.common.items.base;
 
-import T145.magistics.common.Magistics;
+import xinboshin.thaumicwind.common.ThaumicWind;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
