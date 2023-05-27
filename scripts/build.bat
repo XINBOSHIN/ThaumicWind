@@ -1,4 +1,4 @@
-gradle setupWorkspace
-gradle eclipse
-gradle build
-gradle --stop
+gradlew setupWorkspace
+gradlew idea
+gradlew build
+gradlew --stop
