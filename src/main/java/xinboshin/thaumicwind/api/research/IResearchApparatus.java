@@ -1,4 +1,4 @@
-package T145.magistics.api.research;
+package xinboshin.thaumicwind.api.research;
 
 import net.minecraft.item.ItemStack;
 
