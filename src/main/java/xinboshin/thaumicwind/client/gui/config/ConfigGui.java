@@ -1,9 +1,9 @@
-package T145.magistics.client.gui.config;
+package xinboshin.thaumicwind.client.gui.config;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import T145.magistics.common.Magistics;
+import xinboshin.thaumicwind.common.Magistics;
 import net.minecraft.client.gui.GuiButton;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraftforge.fml.client.config.GuiConfig;
