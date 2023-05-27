@@ -2,10 +2,10 @@
     "forge_marker": 1,
     "defaults": {
         "transform": "forge:default-block",
-        "model": "magistics:tank",
+        "model": "thaumicwind:tank",
         "textures": {
-            "side": "magistics:blocks/tank/base_s",
-            "end": "magistics:blocks/tank/base_b"
+            "side": "thaumicwind:blocks/tank/base_s",
+            "end": "thaumicwind:blocks/tank/base_b"
         }
     },
     "variants": {
@@ -16,7 +16,7 @@
         "joined_above": {
             "true": {
                 "textures": {
-                    "side": "magistics:blocks/tank/base_s_b"
+                    "side": "thaumicwind:blocks/tank/base_s_b"
                 }
             },
             "false": {
@@ -25,7 +25,7 @@
         "joined_below": {
             "true": {
                 "textures": {
-                    "side": "magistics:blocks/tank/base_s_t"
+                    "side": "thaumicwind:blocks/tank/base_s_t"
                 }
             },
             "false": {
@@ -34,7 +34,7 @@
         "inbetween": {
             "true": {
                 "textures": {
-                    "side": "magistics:blocks/tank/base_s_c"
+                    "side": "thaumicwind:blocks/tank/base_s_c"
                 }
             },
             "false": {
