@@ -1,3 +1,3 @@
-package T145.magistics.api.research;
+package xinboshin.thaumicwind.api.research;
 
 public interface IResearchBooster {}
