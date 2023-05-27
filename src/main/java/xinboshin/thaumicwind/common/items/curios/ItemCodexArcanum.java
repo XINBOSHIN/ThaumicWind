@@ -1,11 +1,11 @@
-package T145.magistics.common.items.curios;
+package xinboshin.thaumicwind.common.items.curios;
 
 import java.util.List;
 
 import javax.annotation.Nullable;
 
-import T145.magistics.api.front.IModelProvider;
-import T145.magistics.common.items.base.ItemBase;
+import xinboshin.thaumicwind.api.front.IModelProvider;
+import xinboshin.thaumicwinds.common.items.base.ItemBase;
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.entity.player.EntityPlayer;
