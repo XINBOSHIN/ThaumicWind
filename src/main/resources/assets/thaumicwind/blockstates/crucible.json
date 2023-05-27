@@ -2,12 +2,12 @@
     "forge_marker": 1,
     "defaults": {
         "transform": "forge:default-block",
-        "model": "magistics:crucible",
+        "model": "thaumicwind:crucible",
         "textures": {
-            "inner": "magistics:blocks/crucible/i",
-            "bottom": "magistics:blocks/crucible/b",
-            "side": "magistics:blocks/crucible/s",
-            "top": "magistics:blocks/crucible/t"
+            "inner": "thaumicwind:blocks/crucible/i",
+            "bottom": "thaumicwind:blocks/crucible/b",
+            "side": "thaumicwind:blocks/crucible/s",
+            "top": "thaumicwind:blocks/crucible/t"
         }
     },
     "variants": {
