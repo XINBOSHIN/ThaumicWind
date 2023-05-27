@@ -1,4 +1,4 @@
-package T145.magistics.common.network.base;
+package xinboshin.thaumicwind.common.network.base;
 
 import java.io.IOException;
 
