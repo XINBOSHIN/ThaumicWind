@@ -1,6 +1,6 @@
-package T145.magistics.client;
+package xinboshin.thaumicwind.client;
 
-import T145.magistics.common.CommonProxy;
+import xinboshin.thaumicwind.common.CommonProxy;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.world.World;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
