@@ -1,4 +1,4 @@
-package T145.magistics.client.gui.config;
+package xinboshin.thaumicwind.client.gui.config;
 
 import java.util.Set;
 
