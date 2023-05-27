@@ -1,4 +1,4 @@
-package T145.magistics.common.blocks.base;
+package xinboshin.thaumicwind.common.blocks.base;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.ItemBlock;
