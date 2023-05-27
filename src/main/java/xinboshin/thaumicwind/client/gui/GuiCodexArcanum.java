@@ -1,4 +1,4 @@
-package T145.magistics.client.gui;
+package xinboshin.thaumicwind.client.gui;
 
 public class GuiCodexArcanum {
 
