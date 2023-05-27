@@ -1,4 +1,4 @@
-package T145.magistics.client.particles;
+package xinboshin.thaumicwind.client.particles;
 
 import org.lwjgl.opengl.GL11;
 
