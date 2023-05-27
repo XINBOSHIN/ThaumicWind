@@ -1,10 +1,10 @@
-package T145.magistics.common.config;
+package xinboshin.thaumicwind.common.config;
 
-import T145.magistics.common.Magistics;
-import T145.magistics.common.config.base.ConfigBase;
+import xinboshin.thaumicwind.common.Magistics;
+import xinboshin.thaumicwind.common.config.base.ConfigBase;
 import net.minecraftforge.common.config.Config;
 
-@Config(modid = Magistics.ID, name = Magistics.NAME + "/World")
+@Config(modid = ThaumicWind.ID, name = ThaumicWind.NAME + "/World")
 public class ConfigWorld extends ConfigBase {
 
 	// for worldgen and other world properties
