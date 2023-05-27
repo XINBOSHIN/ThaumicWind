@@ -1,4 +1,4 @@
-package T145.magistics.client.particles;
+package xinboshin.thaumicwind.client.particles;
 
 import net.minecraft.client.particle.ParticleFlame;
 import net.minecraft.world.World;
