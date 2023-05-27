@@ -1,9 +1,9 @@
-package T145.magistics.common;
+package xinboshin.thaumicwind.common;
 
-import T145.magistics.common.blocks.BlockResearchApparatus;
-import T145.magistics.common.blocks.base.BlockItemBase;
-import T145.magistics.common.items.curios.ItemCodexArcanum;
-import T145.magistics.common.tiles.TileResearchApparatus;
+import xinboshin.thaumicwind.common.blocks.BlockResearchApparatus;
+import xinboshin.thaumicwind.common.blocks.base.BlockItemBase;
+import xinboshin.thaumicwind.common.items.curios.ItemCodexArcanum;
+import xinboshin.thaumicwind.common.tiles.TileResearchApparatus;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
@@ -17,7 +17,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.registries.IForgeRegistry;
 
 @GameRegistry.ObjectHolder(Magistics.ID)
-public class MagisticsLoader {
+public class ThaumicWindLoader {
 
 	public static final BlockResearchApparatus RESEARCH_TABLE = new BlockResearchApparatus(true);
 	public static final BlockResearchApparatus PEDESTAL = new BlockResearchApparatus(false);
@@ -74,7 +74,7 @@ public class MagisticsLoader {
 		return new SoundEvent(new ResourceLocation(Magistics.ID, name)).setRegistryName(name);
 	}
 
-	@EventBusSubscriber(modid = Magistics.ID)
+	@EventBusSubscriber(modid = ThaumicWind.ID)
 	public static class ServerLoader {
 
 		@SubscribeEvent
@@ -156,7 +156,7 @@ public class MagisticsLoader {
 		}
 	}
 
-	@EventBusSubscriber(modid = Magistics.ID)
+	@EventBusSubscriber(modid = ThaumicWind.ID)
 	public static class ClientLoader {
 
 		@SubscribeEvent
