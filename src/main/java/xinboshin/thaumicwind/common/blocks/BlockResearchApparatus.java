@@ -1,11 +1,11 @@
-package T145.magistics.common.blocks;
+package xinboshin.thaumicwind.common.blocks;
 
 import javax.annotation.Nonnull;
 
-import T145.magistics.api.front.IModelProvider;
-import T145.magistics.client.render.block.RenderResearchApparatus;
-import T145.magistics.common.blocks.base.BlockBase;
-import T145.magistics.common.tiles.TileResearchApparatus;
+import xinboshin.thaumicwind.api.front.IModelProvider;
+import xinboshin.thaumicwind.client.render.block.RenderResearchApparatus;
+import xinboshin.thaumicwind.common.blocks.base.BlockBase;
+import xinboshin.thaumicwind.common.tiles.TileResearchApparatus;
 import net.minecraft.block.ITileEntityProvider;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.MapColor;
