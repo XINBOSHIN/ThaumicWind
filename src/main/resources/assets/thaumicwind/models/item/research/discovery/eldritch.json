@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "magistics:items/research/discovery_eldritch"
+        "layer0": "thaumicwind:items/research/discovery_eldritch"
     }
 }
