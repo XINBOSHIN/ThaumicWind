@@ -1,4 +1,4 @@
-package T145.magistics.api.front;
+package xinboshin.thaumicwind.api.front;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -8,7 +8,7 @@ import javax.annotation.Nullable;
 import T145.magistics.api.research.ResearchCategory;
 import T145.magistics.api.research.ResearchEntry;
 
-public class MagisticsApi {
+public class ThaumicWindApi {
 
 	private static final Map<String, ResearchCategory> RESEARCH_REGISTRY = new HashMap<>();
 
