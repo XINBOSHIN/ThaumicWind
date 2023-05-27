@@ -1,4 +1,4 @@
-package T145.magistics.client.particles.core;
+package xinboshin.thaumicwind.client.particles.core;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -6,7 +6,7 @@ import java.util.concurrent.Callable;
 
 import org.lwjgl.opengl.GL11;
 
-import T145.magistics.common.Magistics;
+import xinboshin.thaumicwind.common.ThaumicWind;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.entity.EntityPlayerSP;
 import net.minecraft.client.particle.Particle;
@@ -30,7 +30,7 @@ import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 
 @SideOnly(Side.CLIENT)
-@EventBusSubscriber(modid = Magistics.ID, value = Side.CLIENT)
+@EventBusSubscriber(modid = ThaumicWind.ID, value = Side.CLIENT)
 public class ParticleEngine {
 
 	private ParticleEngine() {}
