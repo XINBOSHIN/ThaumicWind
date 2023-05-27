@@ -1,7 +1,7 @@
-package T145.magistics.common.network;
+package xinboshin.thaumicwind.common.network;
 
-import T145.magistics.common.Magistics;
-import T145.magistics.common.network.base.MessageBase;
+import xinboshin.thaumicwind.common.Magistics;
+import xinboshin.thaumicwind.common.network.base.MessageBase;
 import net.minecraft.util.IThreadListener;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
