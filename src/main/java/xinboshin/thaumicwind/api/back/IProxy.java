@@ -1,4 +1,4 @@
-package T145.magistics.api.back;
+package xinboshin.thaumicwind.api.back;
 
 import net.minecraftforge.fml.common.network.IGuiHandler;
 
