@@ -1,4 +1,4 @@
-package T145.magistics.common.tiles.base;
+package xinboshin.thaumicwind.common.tiles.base;
 
 import javax.annotation.Nonnull;
 import javax.annotation.OverridingMethodsMustInvokeSuper;
