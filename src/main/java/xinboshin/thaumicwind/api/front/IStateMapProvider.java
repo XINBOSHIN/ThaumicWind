@@ -1,4 +1,4 @@
-package T145.magistics.api.front;
+package xinboshin.thaumicwind.api.front;
 
 import net.minecraft.client.renderer.block.statemap.StateMap;
 
