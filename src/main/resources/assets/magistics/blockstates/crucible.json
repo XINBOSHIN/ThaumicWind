@@ -1,0 +1,23 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "transform": "forge:default-block",
+        "model": "magistics:crucible",
+        "textures": {
+            "inner": "magistics:blocks/crucible/i",
+            "bottom": "magistics:blocks/crucible/b",
+            "side": "magistics:blocks/crucible/s",
+            "top": "magistics:blocks/crucible/t"
+        }
+    },
+    "variants": {
+        "inventory": [
+            {
+            }
+        ],
+        "normal": [
+            {
+            }
+        ]
+    }
+}
