@@ -1,9 +1,9 @@
-package T145.magistics.common;
+package xinboshin.thaumicwind.common;
 
-import T145.magistics.api.back.IProxy;
-import T145.magistics.api.front.MagisticsApi;
-import T145.magistics.api.research.ResearchCategory;
-import T145.magistics.api.research.ResearchEntry;
+import xinboshin.thaumicwind.api.back.IProxy;
+import xinboshin.thaumicwind.api.front.MagisticsApi;
+import xinboshin.thaumicwind.api.research.ResearchCategory;
+import xinboshin.thaumicwind.api.research.ResearchEntry;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.world.World;
@@ -21,9 +21,9 @@ public class CommonProxy implements IProxy {
 
 	@Override
 	public void postInit(FMLPostInitializationEvent event) {
-		ResearchCategory info = new ResearchCategory("magistics.research_category.info", new ResourceLocation(Magistics.ID, "textures/gui/research/r_thaumaturgy.png"), new ResourceLocation(Magistics.ID, "textures/gui/research/bg.png"));
-		ResearchEntry test = new ResearchEntry("magistics.research_entry.test", info, 4, 4, new ResourceLocation(Magistics.ID, "textures/gui/research/r_crucible.png"));
-		MagisticsApi.registerResearch(info);
+		ResearchCategory info = new ResearchCategory("thaumicwind.research_category.info", new ResourceLocation(ThaumicWind.ID, "textures/gui/research/r_thaumaturgy.png"), new ResourceLocation(ThaumicWind.ID, "textures/gui/research/bg.png"));
+		ResearchEntry test = new ResearchEntry("thaumicwind.research_entry.test", info, 4, 4, new ResourceLocation(ThaumicWind.ID, "textures/gui/research/r_crucible.png"));
+		ThaumicWindApi.registerResearch(info);
 	}
 
 	@Override
