@@ -1,8 +1,8 @@
-package T145.magistics.common.tiles;
+package xinboshin.thaumicwind.common.tiles;
 
-import T145.magistics.api.research.IResearchApparatus;
-import T145.magistics.common.Magistics;
-import T145.magistics.common.tiles.base.TileInventory;
+import xinboshin.thaumicwind.api.research.IResearchApparatus;
+import xinboshin.thaumicwind.common.Magistics;
+import xinboshin.thaumicwind.common.tiles.base.TileInventory;
 import net.minecraft.item.ItemStack;
 import net.minecraft.tileentity.TileEntity;
 import net.minecraft.util.ITickable;
